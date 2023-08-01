@@ -39,7 +39,7 @@ It's a small web-application which contain an authentication, registration and o
 * MySQL `v.8.0.22`
 * Tomcat `v.9.0.50`
 * JDBC `v 8.0.22`
-* JavaServer Pages
+* JSP
 ## ⚙ Installation:
 
 Make sure your Java version from `11` to higher ([download](https://www.oracle.com/java/technologies/downloads/#java20)). You also need to download tomcat ([9 version](https://tomcat.apache.org/download-90.cgi)).
